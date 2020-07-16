@@ -12,11 +12,11 @@
 
 # 4. Extract the contents of "reactome.graphdb.tgz"
 
-# NOTE: This can be done with the command "tar -zxvf reactome.graphdb.tgz" on Windows 10 OR using a utility such as 7-Zip (https://www.7-zip.org/)
+# NOTE: This can be done with the command "tar -zxvf reactome.graphdb.tgz" on Windows 10 OR using a utility such as 7-Zip (https://www.7-zip.org/) or Cmder (https://cmder.net/)
 
 # 5. Rename the extracted folder from "reactome.graphdb.tgz" to "graph.db", if necessary
 
-# 6. Install the Docker for Windows (https://docs.docker.com/docker-for-windows/)
+# 6. Install the Docker for Windows (https://docs.docker.com/docker-for-windows/), if not already installed
 
 # 7. Run the following docker command from the command line substituting the full path of the "neo4j" directory in step 2a to run the graph database
 
