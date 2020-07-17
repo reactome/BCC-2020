@@ -13,7 +13,7 @@ Content Service <a href="https://github.com/reactome/BCC-2020/blob/master/conten
 
 <h3> Analysis Service </h3>
 Both the <a href="https://github.com/reactome/BCC-2020/blob/master/analysis-service/TwelveTumorsNaturePaper127genes.txt">TwelveTumorsNaturePaper127genes.txt</a> data file and Analysis Service <a href="https://github.com/reactome/BCC-2020/blob/master/analysis-service/analysis-service_sample-commands.sh">sample queries</a> used during the presentation can be found in the <b>analysis-service</b> directory.
-
+<br>
 The <b>TwelveTumorsNaturePaper127Genes.txt</b> was taken from the supplementary information of <a href="https://www.nature.com/articles/nature12634">Kandoth et. al (2013)</a>.
 
   <h4> Additional Analysis Service resources</h4>
