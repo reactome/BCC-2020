@@ -24,5 +24,5 @@ curl -X POST "https://reactome.org/AnalysisService/identifiers/form/?pValue=1" -
 
 # POST request for running AS on a local data file (TwelveTumorsNaturePaper127genes.txt).
 # This is the final example used in the Reactome AS tutorial during BCC 2020. This replicates the default Pathway Browser analysis settings.
-$ Results stored to analysis-TumoursNaturePaper127genes.json.
+# Results stored to analysis-TumoursNaturePaper127genes.json.
 curl -X POST "https://reactome.org/AnalysisService/identifiers/form/projection?pValue=1&sortBy=ENTITIES_PVALUE&order=ASC" -H  "accept: application/json" -H "content-type: multipart/form-data" -F file=@TwelveTumorsNaturePaper127genes.txt > analysis-TumoursNaturePaper127genes.json
