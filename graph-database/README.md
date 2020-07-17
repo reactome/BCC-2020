@@ -7,8 +7,9 @@
 
 # Extra Resources
 
-1. [Official Neo4j YouTube Channel](https://www.youtube.com/channel/UCvze3hU6OZBkB1vkhH2lH9Q)
-2. [Neo4j Free Courses](https://neo4j.com/graphacademy/online-training/)
-3. [Neo4j Tutorial](https://www.tutorialspoint.com/neo4j/)
-4. [Neo4j Docker Hub Page](https://hub.docker.com/_/neo4j/)
-5. [Matrix Wiki Fandom Page :)](https://matrix.fandom.com/wiki/Main_Page)
+1. [Graph Databases - Wikipedia](https://en.wikipedia.org/wiki/Graph_database)
+2. [Official Neo4j YouTube Channel](https://www.youtube.com/channel/UCvze3hU6OZBkB1vkhH2lH9Q)
+3. [Neo4j Free Courses](https://neo4j.com/graphacademy/online-training/)
+4. [Neo4j Tutorial](https://www.tutorialspoint.com/neo4j/)
+5. [Neo4j Docker Hub Page](https://hub.docker.com/_/neo4j/)
+6. [Matrix Wiki Fandom Page :)](https://matrix.fandom.com/wiki/Main_Page)
