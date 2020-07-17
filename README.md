@@ -27,12 +27,12 @@ The 'TwelveTumorsNaturePaper127Genes.txt' was taken from the supplementary infor
 <h3> Graph Database </h3>
 Directions for installing Docker and getting the Reactome Graph Database instance running can be found in the <b>graph-database</b> directory.
 
+<br><br>
+<h3> Additional Reading and Reactome Resources </h3>
 
-<h4> Additional Reading and Reactome Resources </h4>
-
-<a href="https://reactome.org/userguide/reactome-fiviz">Reactome FIViz Official guide</a> - This app allows users to run pathway enrichment analysis on a gene list and visualize results in Cytoscape, which can be used to explore functional relationships among genes in hit pathways. It also accesses the Reactome Functional Interaction (FI) network, which is manually curated and covers up to 60% of human proteins.<br>
-<a href="http://www.bioconductor.org/packages/release/bioc/html/ReactomeGSA.html">ReactomeGSA R Bioconductor package</a> - Run multi-omics Gene set analyses in R and visualize the results in Reactome.<br>
-<a href="https://reactome.github.io/reactome2py/">Reactome2py Python package</a> - Query Reactome's Content and Analysis services using Python.
+Reactome FIViz <a href="https://reactome.org/userguide/reactome-fiviz">Official guide</a> - This app allows users to run pathway enrichment analysis on a gene list and visualize results in Cytoscape, which can be used to explore functional relationships among genes in hit pathways. It also accesses the Reactome Functional Interaction (FI) network, which is manually curated and covers up to 60% of human proteins.<br>
+ <a href="http://www.bioconductor.org/packages/release/bioc/html/ReactomeGSA.html">ReactomeGSA</a> R Bioconductor package - Run multi-omics Gene set analyses in R and visualize the results in Reactome.<br>
+<a href="https://reactome.github.io/reactome2py/">Reactome2py</a> Python package - Query Reactome's Content and Analysis services using Python.
 
 <h3>Collaborate with us!</h3>
 Reactome has <a href="https://reactome.org/orcid"</a>ORCID Integration</a> which allows users to contribute to our resource and gain official attribution for their work. 
