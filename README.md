@@ -9,7 +9,7 @@ Content Service <a href="https://github.com/reactome/BCC-2020/blob/master/conten
 Both the <a href="https://github.com/reactome/BCC-2020/blob/master/analysis-service/TwelveTumorsNaturePaper127genes.txt">TwelveTumorsNaturePaper127genes.txt</a> data file and Analysis Service <a href="https://github.com/reactome/BCC-2020/blob/master/analysis-service/analysis-service_sample-commands.sh">sample queries</a> used during the presentation can be found in the <b>analysis-service</b> directory.
 
 <h3> Graph Database </h3>
-Instructions for installing Docker and getting the Reactome Graph Database instance running can be found in the <b>graph-database</b> directory.
+Directions for installing Docker and getting the Reactome Graph Database instance running can be found in the <b>graph-database</b> directory.
 
 
 <h4> Additional Reading and Reactome Resources </h4>
