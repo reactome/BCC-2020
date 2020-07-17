@@ -1,6 +1,5 @@
-<h2> BCC2020: How to use Reactome data, tools and web services 
+<h2> BCC2020: 'How to use Reactome data, tools and web services' Supplementary Information </h2>
 
-<h3> Supplementary information </h3>
 This GitHub repository contains sample commands and data that will be used during the Reactome presentation on July 17th (and/or 18th), 2020.
 
 <h3> Content Service </h3>
@@ -13,5 +12,5 @@ Both the <a href="https://github.com/reactome/BCC-2020/blob/master/analysis-serv
 Instructions for installing Docker and getting the Reactome Graph Database instance running can be found in the <b>graph-database</b> directory.
 
 
-<h3> Additional Reading and Reactome Resources </h3>
+<h4> Additional Reading and Reactome Resources </h4>
 Will be added.
