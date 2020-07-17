@@ -48,9 +48,9 @@ LIMIT 1
 
 # Show the TP53 (UniProt:P04637) ReferenceGeneProduct node connected to EWASs which reference it in Reactome and participate indirectly in Reactions as a component of a complex (the empty square brackets between the EWAS and RLE mean "connected via any relationship")
 
-MATCH (rgp:ReferenceGeneProduct)<-[:referenceEntity]-(ewas:EntityWithAccessionedSequence)<-[:hasComponent]-(c:Complex)<-[]-(rle:ReactionLikeEvent)<-[:hasEvent]-(p:Pathway)
+MATCH (rgp:ReferenceGeneProduct)<-[:referenceEntity]-(ewas:EntityWithAccessionedSequence)<-[:hasComponent]-(c:Complex)<-[]-(rle:ReactionLikeEvent)
 WHERE rgp.identifier = "P04637"
-RETURN DISTINCT rgp, ewas, c, rle, p
+RETURN DISTINCT rgp, ewas, c, rle
 LIMIT 1
 
 # Show the TP53 (UniProt:P04637) ReferenceGeneProduct node connected to EWASs which reference it in Reactome and participate directly in Reactions (the empty square brackets between the EWAS and RLE mean "connected via any relationship").  The reactions are then shown connecting to their lowest level parent pathway
